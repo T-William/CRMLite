@@ -112,6 +112,7 @@
     <Compile Include="Data\Address.cs" />
     <Compile Include="Data\AccountHolder.cs" />
     <Compile Include="Data\Account.cs" />
+    <Compile Include="Interface\test.cs" />
     <Compile Include="Migrations\202004151501238_InitialModel.cs" />
     <Compile Include="Migrations\202004151501238_InitialModel.Designer.cs">
       <DependentUpon>202004151501238_InitialModel.cs</DependentUpon>
@@ -121,7 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dtos\" />
-    <Folder Include="Interface\" />
     <Folder Include="Repository\" />
   </ItemGroup>
   <ItemGroup>
